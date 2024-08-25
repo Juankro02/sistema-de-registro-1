@@ -3,3 +3,5 @@
 <p>Estado del proyecto: En construccion</p>
 
 '''npm install react'''
+
+Sistema de registro 2
